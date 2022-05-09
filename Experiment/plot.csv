@@ -1,0 +1,506 @@
+Time,Mem,CPU,Labels,Annotations
+09:57:01,0.1,0.0,20596,root:j234:p20596:slurmstepd: [234.batch]
+09:57:01,2.4,0.0,20603,user1:j234:p20603:nwchem_openmpi siosi3.nw
+09:59:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+09:59:01,18.5,98.4,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+09:59:01,0.1,0.0,20758,root:j250:p20758:slurmstepd: [250.batch]
+09:59:01,0.3,2.3,20763,user2:j250:p20763:python3 sleep_test.py
+10:00:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:00:01,18.5,99.2,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:00:01,0.1,0.0,20758,root:j250:p20758:slurmstepd: [250.batch]
+10:00:01,0.3,0.1,20763,user2:j250:p20763:python3 sleep_test.py
+10:01:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:01:01,18.6,99.4,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:01:01,0.1,0.0,20758,root:j250:p20758:slurmstepd: [250.batch]
+10:01:01,0.3,0.0,20763,user2:j250:p20763:python3 sleep_test.py
+10:02:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:02:01,18.6,99.1,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:02:01,0.1,0.0,20758,root:j250:p20758:slurmstepd: [250.batch]
+10:02:01,0.3,0.0,20763,user2:j250:p20763:python3 sleep_test.py
+10:03:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:03:01,20.5,99.2,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:03:01,0.1,0.0,20758,root:j250:p20758:slurmstepd: [250.batch]
+10:03:01,0.3,0.0,20763,user2:j250:p20763:python3 sleep_test.py
+10:04:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:04:01,20.5,99.4,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:04:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:04:01,0.1,0.3,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:04:01,0.7,85.0,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:05:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:05:01,20.5,99.4,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:05:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:05:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:05:01,0.7,99.3,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:06:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:06:01,20.5,99.5,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:06:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:06:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:06:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:07:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:07:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:07:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:07:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:07:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:08:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:08:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:08:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:08:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:08:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:09:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:09:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:09:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:09:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:09:01,0.7,99.8,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:10:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:10:01,20.5,99.5,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:10:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:10:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:10:01,0.7,99.5,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:11:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:11:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:11:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:11:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:11:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:12:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:12:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:12:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:12:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:12:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:13:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:13:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:13:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:13:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:13:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:14:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:14:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:14:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:14:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:14:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:15:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:15:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:15:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:15:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:15:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:16:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:16:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:16:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:16:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:16:01,0.7,99.5,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:17:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:17:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:17:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:17:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:17:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:18:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:18:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:18:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:18:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:18:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:19:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:19:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:19:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:19:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:19:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:20:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:20:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:20:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:20:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:20:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:21:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:21:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:21:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:21:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:21:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:22:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:22:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:22:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:22:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:22:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:23:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:23:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:23:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:23:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:23:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:24:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:24:01,20.5,99.6,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:24:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:24:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:24:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:25:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:25:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:25:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:25:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:25:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:26:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:26:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:26:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:26:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:26:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:27:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:27:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:27:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:27:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:27:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:28:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:28:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:28:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:28:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:28:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:29:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:29:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:29:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:29:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:29:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:30:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:30:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:30:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:30:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:30:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:31:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:31:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:31:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:31:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:31:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:32:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:32:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:32:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:32:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:32:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:33:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:33:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:33:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:33:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:33:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:34:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:34:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:34:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:34:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:34:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:35:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:35:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:35:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:35:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:35:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:36:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:36:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:36:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:36:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:36:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:37:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:37:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:37:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:37:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:37:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:38:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:38:01,20.5,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:38:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:38:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:38:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:39:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:39:01,20.6,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:39:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:39:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:39:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:40:01,0.1,0.0,20724,root:j248:p20724:slurmstepd: [248.batch]
+10:40:01,21.2,99.7,20731,user1:j248:p20731:nwchem_openmpi density_diamond.nw
+10:40:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:40:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:40:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:41:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:41:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:41:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:41:01,0.1,0.0,21818,root:j260:p21818:slurmstepd: [260.batch]
+10:41:01,1.6,0.4,21835,user3:j260:p21835:java CopyContent
+10:42:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:42:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:42:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:42:01,0.1,0.2,21878,root:j264:p21878:slurmstepd: [264.batch]
+10:42:01,16.0,97.8,21883,user5:j264:p21883:/usr/lib64/R/bin/exec/R --slave --no-restore --file=example.R
+10:43:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:43:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:43:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:44:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:44:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:44:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:45:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:45:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:45:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:46:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:46:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:46:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:47:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:47:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:47:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:48:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:48:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:48:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:49:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:49:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:49:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:50:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:50:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:50:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:51:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:51:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:51:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:52:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:52:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:52:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:53:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:53:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:53:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:54:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:54:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:54:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:55:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:55:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:55:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:56:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:56:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:56:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:57:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:57:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:57:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:58:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:58:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:58:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+10:59:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+10:59:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+10:59:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:00:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:00:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:00:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:01:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:01:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:01:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:02:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:02:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:02:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:03:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:03:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:03:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:04:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:04:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:04:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:05:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:05:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:05:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:06:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:06:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:06:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:07:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:07:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:07:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:08:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:08:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:08:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:09:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:09:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:09:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:10:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:10:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:10:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:11:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:11:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:11:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:12:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:12:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:12:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:13:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:13:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:13:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:14:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:14:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:14:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:15:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:15:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:15:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:16:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:16:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:16:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:17:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:17:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:17:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:18:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:18:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:18:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:19:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:19:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:19:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:20:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:20:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:20:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:21:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:21:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:21:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:22:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:22:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:22:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:23:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:23:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:23:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:24:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:24:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:24:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:25:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:25:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:25:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:26:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:26:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:26:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:27:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:27:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:27:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:28:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:28:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:28:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:29:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:29:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:29:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:30:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:30:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:30:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:31:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:31:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:31:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:32:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:32:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:32:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:33:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:33:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:33:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:34:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:34:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:34:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:35:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:35:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:35:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:36:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:36:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:36:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:37:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:37:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:37:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:38:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:38:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:38:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:39:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:39:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:39:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:40:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:40:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:40:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:41:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:41:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:41:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:42:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:42:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:42:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:43:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:43:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:43:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:44:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:44:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:44:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:45:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:45:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:45:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:46:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:46:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:46:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:47:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:47:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:47:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:48:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:48:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:48:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:49:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:49:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:49:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:50:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:50:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:50:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:51:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:51:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:51:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:52:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:52:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:52:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:53:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:53:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:53:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:54:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:54:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:54:01,0.7,99.6,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:55:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:55:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:55:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:56:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:56:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:56:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:57:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:57:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:57:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:58:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:58:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:58:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+11:59:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+11:59:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+11:59:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:00:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:00:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:00:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:01:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:01:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:01:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:02:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:02:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:02:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:03:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:03:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:03:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:04:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:04:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:04:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:05:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:05:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:05:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:06:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:06:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:06:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:08:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:08:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:08:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:09:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:09:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:09:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:10:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:10:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:10:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:11:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:11:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:11:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:12:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:12:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:12:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:13:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:13:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:13:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:14:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:14:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:14:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:15:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:15:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:15:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:16:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:16:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:16:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:17:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:17:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:17:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:18:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:18:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:18:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
+12:19:01,0.1,0.0,20905,root:j258:p20905:slurmstepd: [258.batch]
+12:19:01,0.1,0.0,20912,"user4:j258:p20912:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache ..."
+12:19:01,0.7,99.7,20914,user4:j258:p20914:lmp -in in.free_sampling
