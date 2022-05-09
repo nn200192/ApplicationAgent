@@ -1,0 +1,155 @@
+USER       PID  PPID %MEM %CPU CMD
+root         1     0  0.2  0.0 /usr/lib/systemd/systemd --switched-root --system --deserialize 22
+root         2     0  0.0  0.0 [kthreadd]
+root         4     2  0.0  0.0 [kworker/0:0H]
+root         5     2  0.0  0.0 [kworker/u4:0]
+root         6     2  0.0  0.0 [ksoftirqd/0]
+root         7     2  0.0  0.0 [migration/0]
+root         8     2  0.0  0.0 [rcu_bh]
+root         9     2  0.0  0.0 [rcu_sched]
+root        10     2  0.0  0.0 [lru-add-drain]
+root        11     2  0.0  0.0 [watchdog/0]
+root        12     2  0.0  0.0 [watchdog/1]
+root        13     2  0.0  0.0 [migration/1]
+root        14     2  0.0  0.0 [ksoftirqd/1]
+root        16     2  0.0  0.0 [kworker/1:0H]
+root        18     2  0.0  0.0 [kdevtmpfs]
+root        19     2  0.0  0.0 [netns]
+root        20     2  0.0  0.0 [khungtaskd]
+root        21     2  0.0  0.0 [writeback]
+root        22     2  0.0  0.0 [kintegrityd]
+root        23     2  0.0  0.0 [bioset]
+root        24     2  0.0  0.0 [bioset]
+root        25     2  0.0  0.0 [bioset]
+root        26     2  0.0  0.0 [kblockd]
+root        27     2  0.0  0.0 [md]
+root        28     2  0.0  0.0 [edac-poller]
+root        29     2  0.0  0.0 [watchdogd]
+root        35     2  0.0  0.0 [kswapd0]
+root        36     2  0.0  0.0 [ksmd]
+root        37     2  0.0  0.0 [khugepaged]
+root        38     2  0.0  0.0 [crypto]
+root        46     2  0.0  0.0 [kthrotld]
+root        48     2  0.0  0.0 [kmpath_rdacd]
+root        49     2  0.0  0.0 [kaluad]
+root        51     2  0.0  0.0 [kpsmoused]
+root        52     2  0.0  0.0 [ipv6_addrconf]
+root        65     2  0.0  0.0 [deferwq]
+root       102     2  0.0  0.0 [kauditd]
+root       279     2  0.0  0.0 [ata_sff]
+root       288     2  0.0  0.0 [scsi_eh_0]
+root       289     2  0.0  0.0 [scsi_tmf_0]
+root       290     2  0.0  0.0 [scsi_eh_1]
+root       291     2  0.0  0.0 [scsi_tmf_1]
+root       294     2  0.0  0.0 [irq/18-vmwgfx]
+root       296     2  0.0  0.0 [ttm_swap]
+root       311     2  0.0  0.0 [kworker/0:1H]
+root       312     2  0.0  0.0 [kworker/1:1H]
+root       376     2  0.0  0.0 [kdmflush]
+root       377     2  0.0  0.0 [bioset]
+root       386     2  0.0  0.0 [kdmflush]
+root       387     2  0.0  0.0 [bioset]
+root       402     2  0.0  0.0 [bioset]
+root       403     2  0.0  0.0 [xfsalloc]
+root       404     2  0.0  0.0 [xfs_mru_cache]
+root       405     2  0.0  0.0 [xfs-buf/dm-0]
+root       406     2  0.0  0.0 [xfs-data/dm-0]
+root       407     2  0.0  0.0 [xfs-conv/dm-0]
+root       408     2  0.0  0.0 [xfs-cil/dm-0]
+root       409     2  0.0  0.0 [xfs-reclaim/dm-]
+root       410     2  0.0  0.0 [xfs-log/dm-0]
+root       411     2  0.0  0.0 [xfs-eofblocks/d]
+root       412     2  0.0  0.0 [xfsaild/dm-0]
+root       494     1  0.2  0.0 /usr/lib/systemd/systemd-journald
+root       509     2  0.0  0.0 [rpciod]
+root       510     2  0.0  0.0 [xprtiod]
+root       514     1  0.0  0.0 /usr/sbin/lvmetad -f
+root       530     1  0.1  0.0 /usr/lib/systemd/systemd-udevd
+root       616     2  0.0  0.0 [kvm-irqfd-clean]
+root       617     2  0.0  0.0 [xfs-buf/sda1]
+root       618     2  0.0  0.0 [xfs-data/sda1]
+root       619     2  0.0  0.0 [xfs-conv/sda1]
+root       620     2  0.0  0.0 [xfs-cil/sda1]
+root       621     2  0.0  0.0 [xfs-reclaim/sda]
+root       622     2  0.0  0.0 [xfs-log/sda1]
+root       623     2  0.0  0.0 [xfs-eofblocks/s]
+root       624     2  0.0  0.0 [xfsaild/sda1]
+root       651     1  0.0  0.0 /sbin/auditd
+root       654     1  0.0  0.0 /usr/sbin/rpc.idmapd
+root       677     1  0.0  0.0 /usr/lib/systemd/systemd-logind
+dbus       679     1  0.1  0.0 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+rpc        680     1  0.0  0.0 /sbin/rpcbind -w
+root       682     1  0.1  0.0 /usr/sbin/gssproxy -D
+root       690     1  0.5  0.0 /usr/sbin/NetworkManager --no-daemon
+root       691     1  0.0  0.0 /usr/sbin/irqbalance --foreground
+polkitd    693     1  0.6  0.0 /usr/lib/polkit-1/polkitd --no-debug
+root       965     1  0.9  0.0 /usr/bin/python2 -Es /usr/sbin/tuned -l -P
+root       967     1  0.2  0.0 /usr/sbin/sshd -D
+root       969     1  0.2  0.0 /usr/sbin/cupsd -f
+munge      971     1  0.0  0.0 /usr/sbin/munged
+root       979     1  0.3  0.0 /usr/sbin/rsyslogd -n
+rpcuser    985     1  0.0  0.0 /usr/sbin/rpc.statd
+root       988     1  0.0  0.0 /usr/sbin/rpc.mountd
+root       991     2  0.0  0.0 [cfs_rh_00]
+root       992     2  0.0  0.0 [cfs_rh_01]
+root      1000     2  0.0  0.0 [nfsiod]
+root      1009     2  0.0  0.0 [nfsd4_callbacks]
+root      1010     2  0.0  0.0 [lockd]
+root      1021     2  0.0  0.0 [nfsd]
+root      1022     2  0.0  0.0 [nfsd]
+root      1023     2  0.0  0.0 [nfsd]
+root      1024     2  0.0  0.0 [nfsd]
+root      1025     2  0.0  0.0 [nfsd]
+root      1026     2  0.0  0.0 [nfsd]
+root      1027     2  0.0  0.0 [nfsd]
+root      1028     2  0.0  0.0 [nfsd]
+root      1072     2  0.0  0.0 [ptlrpc_hr00_000]
+root      1073     2  0.0  0.0 [ptlrpc_hr00_001]
+root      1076     2  0.0  0.0 [socknal_cd00]
+root      1077     2  0.0  0.0 [socknal_cd01]
+root      1078     2  0.0  0.0 [socknal_cd02]
+root      1079     2  0.0  0.0 [socknal_cd03]
+root      1080     2  0.0  0.0 [socknal_reaper]
+root      1081     2  0.0  0.0 [socknal_sd00_00]
+root      1082     2  0.0  0.0 [socknal_sd00_01]
+root      1083     2  0.0  0.0 [acceptor_001]
+root      1084     2  0.0  0.0 [monitor_thread]
+root      1085     2  0.0  0.0 [lnet_discovery]
+root      1086     2  0.0  0.0 [ptlrpcd_rcv]
+root      1087     2  0.0  0.0 [ptlrpcd_00_00]
+root      1088     2  0.0  0.0 [ptlrpcd_00_01]
+root      1093     2  0.0  0.0 [ldlm_cb00_000]
+root      1094     2  0.0  0.0 [ldlm_cb00_001]
+root      1095     2  0.0  0.0 [lc_watchdogd]
+root      1096     2  0.0  0.0 [ldlm_bl_01]
+root      1097     2  0.0  0.0 [ldlm_bl_02]
+root      1099     2  0.0  0.0 [ll_cfg_requeue]
+root      1141     1  0.1  0.0 /usr/libexec/postfix/master -w
+postfix   1143  1141  0.2  0.0 qmgr -l -t unix -u
+root      1303     1  0.1  0.0 /usr/sbin/slurmd -D
+root      1319     1  0.0  0.0 /usr/sbin/crond -n
+root      1334     1  0.0  0.0 /sbin/agetty --noclear tty1 linux
+root      5861   690  0.2  0.0 /sbin/dhclient -d -q -sf /usr/libexec/nm-dhcp-helper -pf /var/run/dhclient-enp0s3.pid -lf /var/lib/NetworkManager/dhclient-ccc95889-c902-4233-8253-0d38cce6342b-enp0s3.lease -cf /var/lib/NetworkManager/dhclient-enp0s3.conf enp0s3
+root      6385     2  0.0  0.0 [kworker/u4:2]
+root      7058     2  0.0  0.0 [kworker/0:1]
+root      7113   967  0.3  0.0 sshd: root@pts/2
+root      7115  7113  0.1  0.0 -bash
+root      7198     2  0.0  0.0 [kworker/1:1]
+root      7246     2  0.0  0.0 [kworker/1:2]
+postfix   7385  1141  0.2  0.0 pickup -l -t unix -u
+root      7473     2  0.0  0.0 [kworker/1:0]
+root      7546     1  0.1  0.0 slurmstepd: [339.batch]
+user4     7550  7546  0.0  0.0 /bin/bash /var/spool/slurmd/job00339/slurm_script --oversubscribe
+user4     7553  7550  0.1  0.0 mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling
+user4     7555  7553  0.8 99.8 lmp -in in.free_sampling
+root      7568     2  0.0  0.0 [kworker/0:0]
+root      7588     2  0.0  0.0 [kworker/0:4]
+root      7757     2  0.0  0.0 [kworker/0:2]
+postfix   7861  1141  0.2  0.0 cleanup -z -t unix -u
+postfix   7863  1141  0.2  0.0 trivial-rewrite -n rewrite -t unix -u
+postfix   7864  1141  0.2  0.0 local -t unix
+root      7875  1319  0.1  0.0 /usr/sbin/CROND -n
+root      7876  7875  0.0  0.0 /bin/sh -c for i in {1..2}; do tail -n +1 /proc/*/maps > ~/$(date "+%F-%H:%M:%S")_maps.log & ps -eo user,pid,ppid,%mem,%cpu,cmd > $(date "+%F-%H:%M:%S").log & sleep 30; done
+root      7884  7876  0.0  0.0 tail -n +1 /proc/1000/maps /proc/1009/maps /proc/1010/maps /proc/1021/maps /proc/1022/maps /proc/1023/maps /proc/1024/maps /proc/1025/maps /proc/1026/maps /proc/1027/maps /proc/1028/maps /proc/102/maps /proc/1072/maps /proc/1073/maps /proc/1076/maps /proc/1077/maps /proc/1078/maps /proc/1079/maps /proc/1080/maps /proc/1081/maps /proc/1082/maps /proc/1083/maps /proc/1084/maps /proc/1085/maps /proc/1086/maps /proc/1087/maps /proc/1088/maps /proc/1093/maps /proc/1094/maps /proc/1095/maps /proc/1096/maps /proc/1097/maps /proc/1099/maps /proc/10/maps /proc/1141/maps /proc/1143/maps /proc/11/maps /proc/12/maps /proc/1303/maps /proc/1319/maps /proc/1334/maps /proc/13/maps /proc/14/maps /proc/16/maps /proc/18/maps /proc/19/maps /proc/1/maps /proc/20/maps /proc/21/maps /proc/22/maps /proc/23/maps /proc/24/maps /proc/25/maps /proc/26/maps /proc/279/maps /proc/27/maps /proc/288/maps /proc/289/maps /proc/28/maps /proc/290/maps /proc/291/maps /proc/294/maps /proc/296/maps /proc/29/maps /proc/2/maps /proc/311/maps /proc/312/maps /proc/35/maps /proc/36/maps /proc/376/maps /proc/377/maps /proc/37/maps /proc/386/maps /proc/387/maps /proc/38/maps /proc/402/maps /proc/403/maps /proc/404/maps /proc/405/maps /proc/406/maps /proc/407/maps /proc/408/maps /proc/409/maps /proc/410/maps /proc/411/maps /proc/412/maps /proc/46/maps /proc/48/maps /proc/494/maps /proc/49/maps /proc/4/maps /proc/509/maps /proc/510/maps /proc/514/maps /proc/51/maps /proc/52/maps /proc/530/maps /proc/5861/maps /proc/5/maps /proc/616/maps /proc/617/maps /proc/618/maps /proc/619/maps /proc/620/maps /proc/621/maps /proc/622/maps /proc/623/maps /proc/624/maps /proc/6385/maps /proc/651/maps /proc/654/maps /proc/65/maps /proc/677/maps /proc/679/maps /proc/680/maps /proc/682/maps /proc/690/maps /proc/691/maps /proc/693/maps /proc/6/maps /proc/7058/maps /proc/7113/maps /proc/7115/maps /proc/7198/maps /proc/7246/maps /proc/7385/maps /proc/7473/maps /proc/7546/maps /proc/7550/maps /proc/7553/maps /proc/7555/maps /proc/7568/maps /proc/7588/maps /proc/7757/maps /proc/7861/maps /proc/7863/maps /proc/7864/maps /proc/7875/maps /proc/7876/maps /proc/7884/maps /proc/7885/maps /proc/7886/maps /proc/7/maps /proc/8/maps /proc/965/maps /proc/967/maps /proc/969/maps /proc/971/maps /proc/979/maps /proc/985/maps /proc/988/maps /proc/991/maps /proc/992/maps /proc/9/maps /proc/self/maps
+root      7885  7876  0.0  0.0 ps -eo user,pid,ppid,%mem,%cpu,cmd
+root      7886  7876  0.0  0.0 sleep 30

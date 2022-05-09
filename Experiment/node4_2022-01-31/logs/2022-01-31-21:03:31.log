@@ -1,0 +1,153 @@
+USER       PID  PPID %MEM %CPU CMD
+root         1     0  0.2  0.0 /usr/lib/systemd/systemd --switched-root --system --deserialize 22
+root         2     0  0.0  0.0 [kthreadd]
+root         4     2  0.0  0.0 [kworker/0:0H]
+root         5     2  0.0  0.0 [kworker/u4:0]
+root         6     2  0.0  0.0 [ksoftirqd/0]
+root         7     2  0.0  0.0 [migration/0]
+root         8     2  0.0  0.0 [rcu_bh]
+root         9     2  0.0  0.0 [rcu_sched]
+root        10     2  0.0  0.0 [lru-add-drain]
+root        11     2  0.0  0.0 [watchdog/0]
+root        12     2  0.0  0.0 [watchdog/1]
+root        13     2  0.0  0.0 [migration/1]
+root        14     2  0.0  0.0 [ksoftirqd/1]
+root        16     2  0.0  0.0 [kworker/1:0H]
+root        18     2  0.0  0.0 [kdevtmpfs]
+root        19     2  0.0  0.0 [netns]
+root        20     2  0.0  0.0 [khungtaskd]
+root        21     2  0.0  0.0 [writeback]
+root        22     2  0.0  0.0 [kintegrityd]
+root        23     2  0.0  0.0 [bioset]
+root        24     2  0.0  0.0 [bioset]
+root        25     2  0.0  0.0 [bioset]
+root        26     2  0.0  0.0 [kblockd]
+root        27     2  0.0  0.0 [md]
+root        28     2  0.0  0.0 [edac-poller]
+root        29     2  0.0  0.0 [watchdogd]
+root        35     2  0.0  0.0 [kswapd0]
+root        36     2  0.0  0.0 [ksmd]
+root        37     2  0.0  0.0 [khugepaged]
+root        38     2  0.0  0.0 [crypto]
+root        46     2  0.0  0.0 [kthrotld]
+root        48     2  0.0  0.0 [kmpath_rdacd]
+root        49     2  0.0  0.0 [kaluad]
+root        51     2  0.0  0.0 [kpsmoused]
+root        52     2  0.0  0.0 [ipv6_addrconf]
+root        65     2  0.0  0.0 [deferwq]
+root       102     2  0.0  0.0 [kauditd]
+root       279     2  0.0  0.0 [ata_sff]
+root       288     2  0.0  0.0 [scsi_eh_0]
+root       289     2  0.0  0.0 [scsi_tmf_0]
+root       290     2  0.0  0.0 [scsi_eh_1]
+root       291     2  0.0  0.0 [scsi_tmf_1]
+root       294     2  0.0  0.0 [irq/18-vmwgfx]
+root       296     2  0.0  0.0 [ttm_swap]
+root       311     2  0.0  0.0 [kworker/0:1H]
+root       312     2  0.0  0.0 [kworker/1:1H]
+root       376     2  0.0  0.0 [kdmflush]
+root       377     2  0.0  0.0 [bioset]
+root       386     2  0.0  0.0 [kdmflush]
+root       387     2  0.0  0.0 [bioset]
+root       402     2  0.0  0.0 [bioset]
+root       403     2  0.0  0.0 [xfsalloc]
+root       404     2  0.0  0.0 [xfs_mru_cache]
+root       405     2  0.0  0.0 [xfs-buf/dm-0]
+root       406     2  0.0  0.0 [xfs-data/dm-0]
+root       407     2  0.0  0.0 [xfs-conv/dm-0]
+root       408     2  0.0  0.0 [xfs-cil/dm-0]
+root       409     2  0.0  0.0 [xfs-reclaim/dm-]
+root       410     2  0.0  0.0 [xfs-log/dm-0]
+root       411     2  0.0  0.0 [xfs-eofblocks/d]
+root       412     2  0.0  0.0 [xfsaild/dm-0]
+root       494     1  0.3  0.0 /usr/lib/systemd/systemd-journald
+root       509     2  0.0  0.0 [rpciod]
+root       510     2  0.0  0.0 [xprtiod]
+root       514     1  0.0  0.0 /usr/sbin/lvmetad -f
+root       530     1  0.1  0.0 /usr/lib/systemd/systemd-udevd
+root       616     2  0.0  0.0 [kvm-irqfd-clean]
+root       617     2  0.0  0.0 [xfs-buf/sda1]
+root       618     2  0.0  0.0 [xfs-data/sda1]
+root       619     2  0.0  0.0 [xfs-conv/sda1]
+root       620     2  0.0  0.0 [xfs-cil/sda1]
+root       621     2  0.0  0.0 [xfs-reclaim/sda]
+root       622     2  0.0  0.0 [xfs-log/sda1]
+root       623     2  0.0  0.0 [xfs-eofblocks/s]
+root       624     2  0.0  0.0 [xfsaild/sda1]
+root       651     1  0.0  0.0 /sbin/auditd
+root       654     1  0.0  0.0 /usr/sbin/rpc.idmapd
+root       677     1  0.0  0.0 /usr/lib/systemd/systemd-logind
+dbus       679     1  0.1  0.0 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+rpc        680     1  0.0  0.0 /sbin/rpcbind -w
+root       682     1  0.1  0.0 /usr/sbin/gssproxy -D
+root       690     1  0.5  0.0 /usr/sbin/NetworkManager --no-daemon
+root       691     1  0.0  0.0 /usr/sbin/irqbalance --foreground
+polkitd    693     1  0.6  0.0 /usr/lib/polkit-1/polkitd --no-debug
+root       965     1  0.9  0.0 /usr/bin/python2 -Es /usr/sbin/tuned -l -P
+root       967     1  0.2  0.0 /usr/sbin/sshd -D
+root       969     1  0.2  0.0 /usr/sbin/cupsd -f
+munge      971     1  0.0  0.0 /usr/sbin/munged
+root       979     1  0.3  0.0 /usr/sbin/rsyslogd -n
+rpcuser    985     1  0.0  0.0 /usr/sbin/rpc.statd
+root       988     1  0.0  0.0 /usr/sbin/rpc.mountd
+root       991     2  0.0  0.0 [cfs_rh_00]
+root       992     2  0.0  0.0 [cfs_rh_01]
+root      1000     2  0.0  0.0 [nfsiod]
+root      1009     2  0.0  0.0 [nfsd4_callbacks]
+root      1010     2  0.0  0.0 [lockd]
+root      1021     2  0.0  0.0 [nfsd]
+root      1022     2  0.0  0.0 [nfsd]
+root      1023     2  0.0  0.0 [nfsd]
+root      1024     2  0.0  0.0 [nfsd]
+root      1025     2  0.0  0.0 [nfsd]
+root      1026     2  0.0  0.0 [nfsd]
+root      1027     2  0.0  0.0 [nfsd]
+root      1028     2  0.0  0.0 [nfsd]
+root      1072     2  0.0  0.0 [ptlrpc_hr00_000]
+root      1073     2  0.0  0.0 [ptlrpc_hr00_001]
+root      1076     2  0.0  0.0 [socknal_cd00]
+root      1077     2  0.0  0.0 [socknal_cd01]
+root      1078     2  0.0  0.0 [socknal_cd02]
+root      1079     2  0.0  0.0 [socknal_cd03]
+root      1080     2  0.0  0.0 [socknal_reaper]
+root      1081     2  0.0  0.0 [socknal_sd00_00]
+root      1082     2  0.0  0.0 [socknal_sd00_01]
+root      1083     2  0.0  0.0 [acceptor_001]
+root      1084     2  0.0  0.0 [monitor_thread]
+root      1085     2  0.0  0.0 [lnet_discovery]
+root      1086     2  0.0  0.0 [ptlrpcd_rcv]
+root      1087     2  0.0  0.0 [ptlrpcd_00_00]
+root      1088     2  0.0  0.0 [ptlrpcd_00_01]
+root      1093     2  0.0  0.0 [ldlm_cb00_000]
+root      1094     2  0.0  0.0 [ldlm_cb00_001]
+root      1095     2  0.0  0.0 [lc_watchdogd]
+root      1096     2  0.0  0.0 [ldlm_bl_01]
+root      1097     2  0.0  0.0 [ldlm_bl_02]
+root      1099     2  0.0  0.0 [ll_cfg_requeue]
+root      1141     1  0.1  0.0 /usr/libexec/postfix/master -w
+postfix   1143  1141  0.2  0.0 qmgr -l -t unix -u
+root      1303     1  0.1  0.0 /usr/sbin/slurmd -D
+root      1319     1  0.0  0.0 /usr/sbin/crond -n
+root      1334     1  0.0  0.0 /sbin/agetty --noclear tty1 linux
+root      5861   690  0.2  0.0 /sbin/dhclient -d -q -sf /usr/libexec/nm-dhcp-helper -pf /var/run/dhclient-enp0s3.pid -lf /var/lib/NetworkManager/dhclient-ccc95889-c902-4233-8253-0d38cce6342b-enp0s3.lease -cf /var/lib/NetworkManager/dhclient-enp0s3.conf enp0s3
+root      6385     2  0.0  0.0 [kworker/u4:2]
+root      7113   967  0.3  0.0 sshd: root@pts/2
+root      7115  7113  0.1  0.0 -bash
+postfix   7385  1141  0.2  0.0 pickup -l -t unix -u
+root      7546     1  0.1  0.0 slurmstepd: [339.batch]
+user4     7550  7546  0.0  0.0 /bin/bash /var/spool/slurmd/job00339/slurm_script --oversubscribe
+user4     7553  7550  0.1  0.0 mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling
+user4     7555  7553  0.8 99.8 lmp -in in.free_sampling
+root      8242     2  0.0  0.0 [kworker/0:2]
+root      8291     2  0.0  0.0 [kworker/1:2]
+root      8348     2  0.0  0.0 [kworker/0:1]
+root      8398     2  0.0  0.0 [kworker/1:0]
+postfix   8495  1141  0.2  0.0 cleanup -z -t unix -u
+postfix   8496  1141  0.2  0.0 trivial-rewrite -n rewrite -t unix -u
+postfix   8499  1141  0.2  0.0 local -t unix
+root      8508     2  0.0  0.0 [kworker/0:0]
+root      8509     2  0.0  0.0 [kworker/1:1]
+root      8517  1319  0.1  0.0 /usr/sbin/CROND -n
+root      8518  8517  0.0  0.0 /bin/sh -c for i in {1..2}; do tail -n +1 /proc/*/maps > ~/$(date "+%F-%H:%M:%S")_maps.log & ps -eo user,pid,ppid,%mem,%cpu,cmd > $(date "+%F-%H:%M:%S").log & sleep 30; done
+root      8528  8518  0.0  0.0 ps -eo user,pid,ppid,%mem,%cpu,cmd
+root      8529  8518  0.0  0.0 sleep 30
