@@ -1,0 +1,61 @@
+Date,Time,Mem,CPU,Labels,Annotations,Full_Annotations,DAG_if_root
+2022-01-31,21:20:01,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:20:01,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:20:01,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:20:31,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:20:31,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:20:31,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:21:01,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:21:01,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:21:01,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:21:31,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:21:31,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:21:31,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:22:01,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:22:01,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:22:01,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:22:31,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:22:31,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:22:31,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:23:01,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:23:01,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:23:01,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:23:31,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:23:31,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:23:31,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:24:01,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:24:01,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:24:01,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:24:31,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:24:31,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:24:31,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:25:01,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:25:01,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:25:01,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:25:31,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:25:31,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:25:31,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:26:01,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:26:01,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:26:01,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:26:31,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:26:31,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:26:31,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:27:01,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:27:01,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:27:01,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:27:31,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:27:31,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:27:31,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:28:01,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:28:01,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:28:01,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:28:31,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:28:31,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:28:31,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:29:01,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:29:01,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:29:01,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
+2022-01-31,21:29:31,0.1,0.0,7546,root:j339:p7546:slurmstepd: [339.batch],root:j339:p7546:slurmstepd: [339.batch],"[('7546', '7550'), ('7550', '7553'), ('7553', '7555')]"
+2022-01-31,21:29:31,0.1,0.0,7553,"user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader ...","user4:j339:p7553:mpirun --allow-run-as-root --mca btl self,vader --map-by l3cache lmp -in in.free_sampling",
+2022-01-31,21:29:31,0.8,99.8,7555,user4:j339:p7555:lmp -in in.free_sampling,user4:j339:p7555:lmp -in in.free_sampling,
